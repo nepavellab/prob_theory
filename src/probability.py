@@ -152,6 +152,3 @@ def solve(n1: int, n2: int, n3: int, m: int,
     print(f"M{greek['epsi']}{greek['nu']} = {str(Men)}")
 
     print(f"P{greek['epsi']}{greek['nu']} = {round((Men - Me * Mn) / sqrt(De * Dn), 6)}")
-
-
-#solve(n1, n2, n3, m, a, b, c, d)
