@@ -15,4 +15,4 @@ except ImportError:
 
 Пример работы программы:
 ![](https://github.com/user-attachments/assets/6228d297-ec19-4092-8ae2-b002650fc134) <br />
-![](https://github.com/user-attachments/assets/dc638624-026d-4280-96a1-c580ccea2756)
+![](https://github.com/user-attachments/assets/513fa117-20af-4c99-8f93-c77833229e8f)
